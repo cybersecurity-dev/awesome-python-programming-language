@@ -37,3 +37,5 @@
 - [Flask](https://flask.palletsprojects.com/)
 
 ### 4. Miscellaneous
+- [Loguru](https://github.com/Delgan/loguru) - Python [logging](https://loguru.readthedocs.io/en/stable/) made (stupidly) simple.
+- [Scapy](https://github.com/scrapy/scrapy) - [Scapy](https://www.scrapy.org/) is a powerful interactive packet manipulation library written in Python. 
