@@ -1,4 +1,4 @@
-# Awesome Python Programming Language [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome [Python](https://www.python.org/) Programming Language [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Python/)
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -17,6 +17,7 @@
 
 ### 2. Data Visualization
 - [Matplotlib](https://matplotlib.org/)
+- [Plotly](https://plotly.com/python/)
 - [Seaborn](https://seaborn.pydata.org/)
 
 ### 3. Artificial Intelligence
