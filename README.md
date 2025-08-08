@@ -40,3 +40,16 @@
 - [Loguru](https://github.com/Delgan/loguru) - Python [logging](https://loguru.readthedocs.io/en/stable/) made (stupidly) simple.
 - [Scapy](https://github.com/scrapy/scrapy) - [Scapy](https://www.scrapy.org/) is a powerful interactive packet manipulation library written in Python.
 - [SciPy](https://scipy.org/) - Fundamental algorithms for scientific computing in Python
+
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-python-programming-language/graphs/contributors)!
+
+[🔼 Back to top](#awesome-python-programming-language-)
