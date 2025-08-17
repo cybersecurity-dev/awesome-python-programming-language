@@ -1,3 +1,7 @@
+<p align="center"><a href="https://www.python.org/">
+  <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/python.svg" />
+</a></p>
+
 # Awesome [Python](https://www.python.org/) Programming Language [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Python/)
 <p align="center">
