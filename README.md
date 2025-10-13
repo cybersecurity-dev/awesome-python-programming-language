@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.python.org/">
+<p align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
   <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/python.svg" />
 </a></p>
 
