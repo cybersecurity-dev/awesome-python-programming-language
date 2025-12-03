@@ -1,8 +1,13 @@
-<p align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-  <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/python.svg" />
-</a></p>
+<div align="center">
+    <p align="center">
+        <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+          <img width="12%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/python.svg" />
+        </a>
+    </p>
 
-# Awesome [Python](https://www.python.org/) Programming Language [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Python](https://www.python.org/) Programming Language [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Python/)
 
