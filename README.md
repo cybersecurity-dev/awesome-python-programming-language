@@ -21,6 +21,13 @@
 </p>
 
 ## 📖 Contents
+- [Library](#library)
+    - [Data Analysis and Manipulation](#1-data-analysis-and-manipulation)
+    - [Data Visualization](#2-data-visualization)
+    - [Artificial Intelligence](#3-artificial-intelligence)
+        - [AutoML](#automl)
+    - [GUI Development](#4-gui-development)
+    - [Miscellaneous](#5-miscellaneous)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -52,7 +59,7 @@
 ### 4. GUI Development
 - [Flask](https://flask.palletsprojects.com/)
 
-### 4. Miscellaneous
+### 5. Miscellaneous
 - [Loguru](https://github.com/Delgan/loguru) - Python [logging](https://loguru.readthedocs.io/en/stable/) made (stupidly) simple.
 - [Memray](https://github.com/bloomberg/memray) - [Memray](https://bloomberg.github.io/memray/) tracks and reports memory allocations, both in Python code and in compiled extension modules.
 - [Scapy](https://github.com/scrapy/scrapy) - [Scapy](https://www.scrapy.org/) is a powerful interactive packet manipulation library written in Python.
