@@ -1,20 +1,37 @@
 <div align="center">
     <p align="center">
-        <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-          <img width="12%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/python.svg" />
+        <a href="https://wikipedia.org/wiki/Python_(programming_language)">
+          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/python.svg" />
         </a>
     </p>
+
+```mermaid
+timeline
+    title Python Programming Language Evolution
+
+    1989 : Guido van Rossum started development
+    1991 : Python 0.9.0 released
+    1994 : Python 1.0
+    2000 : Python 2.0
+    2001 : Python Software Foundation established
+    2008 : Python 3.0 released
+    2015 : Python becomes dominant in Data Science
+    2018 : Python 3 widely adopted
+    2020 : Python 2 End-of-Life
+    2022 : Python 3.11 performance improvements
+    2024+ : AI, ML, Cloud and Cybersecurity expansion
+```
 
 # **`Awesome`** [Python](https://www.python.org/) Programming Language [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Python/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Python/new/)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
@@ -65,15 +82,18 @@
 - [Scapy](https://github.com/scrapy/scrapy) - [Scapy](https://www.scrapy.org/) is a powerful interactive packet manipulation library written in Python.
 - [SciPy](https://scipy.org/) - Fundamental algorithms for scientific computing in Python
 
+##
+
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-python-programming-language/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-python-programming-language-)
