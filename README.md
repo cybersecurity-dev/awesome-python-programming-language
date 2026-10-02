@@ -52,16 +52,142 @@ timeline
 ## Library
 
 ### 1. Data Analysis and Manipulation
+```mermaid
+mindmap
+  root((Data Analysis<br/>&<br/>Manipulation))
+    Data Collection
+      CSV
+      Excel
+      Databases
+      APIs
+      Web Scraping
+    Data Cleaning
+      Missing Values
+      Outliers
+      Duplicates
+      Data Transformation
+    Data Manipulation
+      Filtering
+      Sorting
+      Aggregation
+      Merging
+      Reshaping
+    Analysis
+      Statistical Analysis
+      Exploratory Data Analysis
+      Feature Engineering
+      Hypothesis Testing
+    Visualization
+      Matplotlib
+      Seaborn
+      Plotly
+      Tableau
+      Power BI
+    Big Data
+      Dask
+      Spark
+      Hadoop
+    Machine Learning
+      Scikit-Learn
+      TensorFlow
+      PyTorch
+    Reporting
+      Dashboards
+      Reports
+      Business Intelligence
+```
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 
 ### 2. Data Visualization
+```mermaid
+mindmap
+  root((Data<br/>Visualization))
+    Purpose
+      Communication
+      Storytelling
+      Exploration
+      Decision Support
+    Chart Types
+      Bar Chart
+      Line Chart
+      Pie Chart
+      Scatter Plot
+      Histogram
+      Heatmap
+      Box Plot
+      Treemap
+    Visualization Tools
+      Matplotlib
+      Seaborn
+      Plotly
+      Tableau
+      Power BI
+      Excel
+    Data Types
+      Categorical
+      Numerical
+      Time Series
+      Geospatial
+      Network Data
+    Dashboarding
+      KPIs
+      Reports
+      Interactive Dashboards
+    Advanced Analytics
+      Predictive Analytics
+      ML Visualization
+      Explainable AI
+```
 - [Matplotlib](https://matplotlib.org/)
 - [Plotly](https://plotly.com/python/)
 - [Seaborn](https://seaborn.pydata.org/)
 
 ### 3. Artificial Intelligence
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](https://keras.io/)[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
+```mermaid
+mindmap
+  root((Artificial<br/>Intelligence))
+    Machine Learning
+      Scikit-Learn
+      XGBoost
+      LightGBM
+      CatBoost
+    Deep Learning
+      TensorFlow
+      Keras
+      PyTorch
+      JAX
+    Natural Language Processing
+      NLTK
+      SpaCy
+      Transformers
+      Gensim
+    Computer Vision
+      OpenCV
+      Pillow
+      Detectron2
+      YOLO
+    Reinforcement Learning
+      Gymnasium
+      Stable-Baselines3
+      RLlib
+    Generative AI
+      HuggingFace
+      LangChain
+      LlamaIndex
+      Ollama
+    Explainable AI
+      SHAP
+      LIME
+      Captum
+    MLOps
+      MLflow
+      Kubeflow
+      Airflow
+      Weights&Biases
+```
 
 - [Keras](https://github.com/keras-team/keras) - Deep [Learning](https://keras.io/) for humans
 - [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic [neural networks](https://pytorch.org/) in Python with strong GPU acceleration.
@@ -74,6 +200,38 @@ timeline
 - [Auto-sklearn](https://github.com/automl/auto-sklearn) - [Automated](https://automl.github.io/auto-sklearn/) Machine Learning with scikit-learn.
 
 ### 4. GUI Development
+```mermaid
+mindmap
+  root((Python<br/>GUI<br/>Frameworks))
+    Desktop GUI
+      Tkinter
+      PyQt
+      PySide
+      wxPython
+      Kivy
+    Modern GUI
+      Toga
+      DearPyGui
+      CustomTkinter
+      Flet
+    Web-Based GUI
+      Streamlit
+      Gradio
+      Dash
+      NiceGUI
+    Visualization GUI
+      Plotly Dash
+      Bokeh
+      PyQtGraph
+    Mobile GUI
+      Kivy
+      BeeWare
+      Toga
+    Enterprise Applications
+      PyQt
+      PySide
+      wxPython
+```
 - [Flask](https://flask.palletsprojects.com/)
 
 ### 5. Miscellaneous
